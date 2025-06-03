@@ -23,10 +23,10 @@ This time **we will not define a strict topic**, we are counting on your creativ
 (British Summer Time - BST - GMT+1)
 
 - **Until Friday - July 4** - Ideation Process
-  - Access [here](https://github.com/spotqa/hackathon-fall-2024/issues/1) to place ideas!
+  - Access [here](https://github.com/spotqa/hackathon-summer-2025/issues/1) to place ideas!
  
 - **Friday - July 4** - Pitching and Team formation
-  - Ideation: Review the [**idea pool**](https://github.com/spotqa/hackathon-fall-2024/issues/1)
+  - Ideation: Review the [**idea pool**](https://github.com/spotqa/hackathon-summer-2025/issues/1)
   - Pitching: Each proponent has 2m to explain the idea
   - Voting: Each person votes in the existent ideas
   - Idea selection: The maximum of 6 ideas will be selected based on the number of votes
