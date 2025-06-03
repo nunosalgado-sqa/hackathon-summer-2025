@@ -1,5 +1,4 @@
-![Virtuoso Summer Hackathon 2025](https://github.com/user-attachments/assets/21201b2a-8f47-4936-8aab-30af95e6ad2d)
-
+![summer-hackathon](https://github.com/user-attachments/assets/2a9acac9-3c87-4238-8e82-f7582f7cbf1c)
 
 # Welcome to the "Virtuoso Summer" Hackathon 2025!
 
