@@ -8,7 +8,7 @@ Although a hackathon is always a moment to potentially elevate our product with 
 
 ### Theme / Topic
 
-This time **we will not define a strict topic**, we are counting on your creativity, although we can provide some examples: 
+This time again, **we will not define a strict topic**, we are counting on your creativity, although we can provide some examples: 
 - New features that could provoke the "wow" effect on our customers
 - Technical debt that will improve significantly a specific process or workflow
 - Improve the resilience of a component / feature
