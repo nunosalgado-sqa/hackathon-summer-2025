@@ -3,7 +3,7 @@
 # Welcome to the "Virtuoso Summer" Hackathon 2025!
 
 We are aiming for the participation of the entire team - Engineers (FE / BE / SRE), Product Managers, UX. Everyone is encouraged to submit ideas and participate. 
-Although a hackathon is always a moment to potentially elevate our product with awesome features, we strongly believe that this is a very important moment for our team and our people. This time we will gather together in Portugal strengthening the team spirit and working deeply on team building.
+Although a hackathon is always a moment to potentially elevate our product with awesome features, we strongly believe that this is a very important moment for our team and our people. 
 
 
 ### Theme / Topic
